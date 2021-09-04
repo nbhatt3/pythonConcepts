@@ -1,2 +1,4 @@
 # pythonConcepts
-Basic and advanced level concepts of Python
+Basic and advanced concepts of Python
+Generators, decorators explained with examples
+OOP in python with example  
